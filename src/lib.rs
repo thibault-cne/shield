@@ -1,6 +1,7 @@
 use error::Result;
 
 pub mod cesar;
+pub mod vernam;
 
 pub mod error;
 
